@@ -14,7 +14,7 @@ ChangeWeatherLocation builds upon [whereami](https://github.com/robmathers/Where
 
 Usage
 -----
-Simply download ChangeWeatherLocation and execute, either by double-click or in the terminal.
+Simply download the [whereami](https://github.com/robmathers/WhereAmI) executable. Then download ChangeWeatherLocation and execute in the same directory, either by double-click or in the terminal.
 
 Notes
 -----
