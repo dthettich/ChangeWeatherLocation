@@ -14,11 +14,11 @@ ChangeWeatherLocation builds upon [whereami](https://github.com/robmathers/Where
 
 Usage
 -----
-Simply download the [whereami](https://github.com/robmathers/WhereAmI) executable. Then download ChangeWeatherLocation and execute in the same directory, either by double-click or in the terminal.
+Simply download the [whereami](https://github.com/robmathers/WhereAmI) executable and add it to /usr/local/bin. Then download ChangeWeatherLocation and execute, either by double-click or in the terminal.
 
 Notes
 -----
 I discovered [Übersicht](http://tracesof.net/uebersicht/) some hours ago and wrote this pretty quickly. 
-I tested this script but make no guarantees or warranties whatsoever that it works for you as well. 
+I tested this script but make no guarantees or warranties whatsoever. 
 Additionally, I tried to have this script executed every time the network changes for convenience. 
 It turns out that this is a rather difficult task, however. If you have suggestions, please feel free to drop me a message.
