@@ -6,10 +6,10 @@ ChangeWeatherLocation is a small shell script that automatically obtains Latitud
 Longitude via OS X's [CoreLocation](http://en.wikipedia.org/wiki/CoreLocation) 
 framework and sets these values in [pretty-weather](http://tracesof.net/uebersicht-widgets/#pretty-weather)
 widget's config for [Übersicht](http://tracesof.net/uebersicht/). [Übersicht](http://tracesof.net/uebersicht/) 
-is an incredibly versatile widget tool for OS X implemented by [Felix Hageloh](http://tracesof.net/).
-Felix is also the author of the[pretty-weather](http://tracesof.net/uebersicht-widgets/#pretty-weather) widget.
+is an incredibly versatile desktop widget tool for OS X implemented by [Felix Hageloh](http://tracesof.net/).
+Felix is also the author of the [pretty-weather](http://tracesof.net/uebersicht-widgets/#pretty-weather) widget.
 
-ChangeWeatherLocation builds upon[whereami](https://github.com/robmathers/WhereAmI) implemented by
+ChangeWeatherLocation builds upon [whereami](https://github.com/robmathers/WhereAmI) implemented by
 [Rob Mathers](http://grmm.ca/).
 
 Usage
